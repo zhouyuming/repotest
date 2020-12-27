@@ -2,5 +2,5 @@
 <manifest>
 <remote  name="origin" fetch=".." review="https://github.com/zhouyuming/" />
 <default revision="master" remote="origin" sync-j="4" />
-<project name="app" remote="origin" path="LeetCode" />
+<project name="LeetCode" remote="origin" path="." />
 </manifest>
