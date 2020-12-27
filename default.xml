@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote  name="aosp" fetch=".." review="https://github.com/" />
+<remote  name="origin" fetch=".." review="https://github.com/" />
 </manifest>
