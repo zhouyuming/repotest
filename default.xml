@@ -3,4 +3,5 @@
 <remote  name="origin" fetch=".." review="https://github.com/" />
 <default revision="master" remote="origin" sync-j="4" />
 <project name="zhouyuming/Flutter" remote="origin" path="Flutter" />
+<project name="zhouyuming/LeetCode" remote="origin" path="LeetCode" />
 </manifest>
