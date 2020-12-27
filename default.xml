@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote  name="origin" fetch=".." review="https://github.com/zhouyuming/" />
+<remote  name="origin" fetch=".." review="https://github.com/" />
 <default revision="master" remote="origin" sync-j="4" />
-<project name="LeetCode" remote="origin" path="." />
+<project name="zhouyuming/LeetCode" remote="origin" path="." />
 </manifest>
