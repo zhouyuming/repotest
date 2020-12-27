@@ -3,5 +3,4 @@
 <remote  name="origin" fetch=".." review="https://github.com/" />
 <default revision="master" remote="origin" sync-j="4" />
 <project name="zhouyuming/LeetCode" remote="origin" path="LeetCode" />
-<project name="zhouyuming/CMake" remote="origin" path="CMake" />
 </manifest>
