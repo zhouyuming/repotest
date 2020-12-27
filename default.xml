@@ -4,4 +4,6 @@
 <default revision="master" remote="origin" sync-j="4" />
 <project name="zhouyuming/Flutter" remote="origin" path="Flutter" />
 <project name="zhouyuming/LeetCode" remote="origin" path="LeetCode" />
+<project name="zhouyuming/Python" remote="origin" path="Python" />
+<project name="zhouyuming/QT" remote="origin" path="QT" />
 </manifest>
