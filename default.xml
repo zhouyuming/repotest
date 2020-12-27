@@ -2,5 +2,5 @@
 <manifest>
 <remote  name="origin" fetch=".." review="https://github.com/" />
 <default revision="master" remote="origin" sync-j="4" />
-<project name="zhouyuming/C" remote="origin" path="C" />
+<project name="zhouyuming/Flutter" remote="origin" path="Flutter" />
 </manifest>
